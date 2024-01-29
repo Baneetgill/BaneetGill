@@ -1,3 +1,3 @@
-### BaneetGill.Github.io
+# BaneetGill.Github.io
 
 Applying Skills. Delivering results.
